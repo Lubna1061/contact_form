@@ -1,0 +1,80 @@
+body{
+    background-image: url(../tasks/contactus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 3%;
+}
+h4{
+    color: white;
+    margin-top: 5%;
+    font-weight: bolder;
+    margin-left: 10%;
+}
+
+.sig{
+    width: 100%;
+    height: 500px;
+    margin-top: 1%;
+    border: 3px solid black;
+    border-color: black;
+    background-color: black;
+    opacity: 0.8;
+}
+.fo{
+    margin-left: 50%;
+    width: 45%;
+}
+
+textarea{
+    width: 100%;
+    height: 90px;
+}
+
+input[type=submit]{
+    background-color: orange;
+    width: 90px;
+    height: 35px;
+}
+.fa-facebook{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: -130px;
+    left: 160px;
+    
+}
+.fa-twitter{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: -130px;
+    left: 180px;
+}
+.fa-phone{
+
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: -130px;
+    left: 200px;
+
+}
+.fa-user{
+    font-size: 40px;
+    color: white;
+    position: relative;
+    top: -225px;
+    right: 2%;
+
+}
+span{
+    color: white;
+    position: relative;
+    top: -250px;
+}
